@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1b95cd-b157-4a3f-b0fd-e6efb0173bba" name="Default Changelist" comment="" />
+    <list default="true" id="ef1b95cd-b157-4a3f-b0fd-e6efb0173bba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/loja/aula2.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loja/aula1.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/loja/aula1.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loja/core.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/loja/core.clj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZN5e7gWbN3sRD6SKncCq5tFhDS" />
   <component name="ProjectViewState">
@@ -15,8 +23,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="ReplState" timestamp="1584670329156">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="ReplState" timestamp="1584706310985">{:repl-history {:ide [], :local [], :remote []}}</component>
   <component name="RunManager">
     <configuration name="REPL for loja" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" temporary="true">
       <module name="loja" />
@@ -71,9 +80,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1903" y="241" key="search.everywhere.popup" timestamp="1584667547037">
+    <state x="1919" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1584703409307">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
-    <state x="1903" y="241" key="search.everywhere.popup/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1584667547037" />
+    <state x="1919" y="372" key="com.intellij.ide.util.TipDialog/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1584703409307" />
+    <state x="1903" y="241" key="search.everywhere.popup" timestamp="1584703573782">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1903" y="241" key="search.everywhere.popup/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1584703573782" />
   </component>
 </project>
